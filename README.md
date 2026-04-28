@@ -1,2 +1,3 @@
+HEAD
 amin1
-ikinci sətir
+e3c7131 (Initial commit)
